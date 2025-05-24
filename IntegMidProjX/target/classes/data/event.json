@@ -1,0 +1,32 @@
+[
+  {
+    "eventID": "EVENT_1",
+    "eventName":"Acquaintances Party",
+    "startTime": "9:00 AM",
+    "endTime": "2:00 PM",
+    "eventDay": 25,
+    "eventMonth": "March",
+    "eventYear": 2025,
+    "description": "Acquaintances Party of SAMCIS students!"
+  },
+  {
+    "eventID": "EVENT_2",
+    "eventName":"Valentines Day",
+    "startTime": "7:00 AM",
+    "endTime": "12:00 PM",
+    "eventDay": 14,
+    "eventMonth": "February",
+    "eventYear": 2025,
+    "description": "Happy Valentines Day"
+  },
+  {
+    "eventID": "EVENT_3",
+    "eventName":"Election Day",
+    "startTime": "8:00 AM",
+    "endTime": "4:00 PM",
+    "eventDay": 20,
+    "eventMonth": "May",
+    "eventYear": 2025,
+    "description": "Vote for ROBE!!!"
+  }
+]

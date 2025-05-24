@@ -1,0 +1,172 @@
+[
+  {
+    "lastName": "Charusu",
+    "firstName": "kennetsu",
+    "contactNo": 9987456321,
+    "email": "KennetsuCharusu@gmail.com",
+    "seatNo": 5,
+    "eventID": "EVENT_1",
+    "password": "robexrml123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "AbaDaddy",
+    "firstName": "Robi",
+    "contactNo": 9123456789,
+    "email": "RobeDaddy34@gmail.com",
+    "seatNo": 30,
+    "eventID": "EVENT_1",
+    "password": "iluvrml123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "Delacruz",
+    "firstName": "Maria",
+    "contactNo": 9176543210,
+    "email": "maria.delacruz@gmail.com",
+    "seatNo": 27,
+    "eventID": "EVENT_1",
+    "password": "Passw0rd!",
+    "gender": "Female"
+  },
+  {
+    "lastName": "Santos",
+    "firstName": "Jacob",
+    "contactNo": 9287654321,
+    "email": "acob.santos@gmail.com",
+    "seatNo": 27,
+    "eventID": "EVENT_2",
+    "password": "Secure123!",
+    "gender": "Male"
+  },
+  {
+    "lastName": "Garcia",
+    "firstName": "Isabelle",
+    "contactNo": 9171234567,
+    "email": "isabella.gar@gmail.com",
+    "seatNo": 3,
+    "eventID": "EVENT_1",
+    "password": "EVT2025-03",
+    "gender": "Female"
+  },
+  {
+    "lastName": "Tan",
+    "firstName": "Jared",
+    "contactNo": 9394561234,
+    "email": "jared.tan99@yahoo.com",
+    "seatNo": 4,
+    "eventID": "EVENT_1",
+    "password": "tanlovesmary",
+    "gender": "Male"
+  },
+  {
+    "lastName": "Abadecio",
+    "firstName": "Robe",
+    "contactNo": 9876545362,
+    "email": "voteForRobe@gmail.com",
+    "seatNo": 4,
+    "eventID": "EVENT_3",
+    "password": "robe123",
+    "gender": "Female"
+  },
+  {
+    "lastName": "Julian",
+    "firstName": "Policarpio",
+    "contactNo": 9564738291,
+    "email": "julianPoli@gmail.com",
+    "seatNo": 5,
+    "eventID": "EVENT_3",
+    "password": "jul123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "Sarmiento",
+    "firstName": "AJ",
+    "contactNo": 9342765481,
+    "email": "AJ@gmail.com",
+    "seatNo": 6,
+    "eventID": "EVENT_3",
+    "password": "aj123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "ilag",
+    "firstName": "mj",
+    "contactNo": 9876545632,
+    "email": "mj@gmail.com",
+    "seatNo": 1,
+    "eventID": "EVENT_3",
+    "password": "mj123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "lingbawan",
+    "firstName": "lj",
+    "contactNo": 9342765471,
+    "email": "lj@gmail.com",
+    "seatNo": 2,
+    "eventID": "EVENT_3",
+    "password": "lj123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "satoru",
+    "firstName": "goko",
+    "contactNo": 9696969696,
+    "email": "gojo@gmail.com",
+    "seatNo": 3,
+    "eventID": "EVENT_3",
+    "password": "gojo123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "kakarot",
+    "firstName": "goku",
+    "contactNo": 9453672812,
+    "email": "goku@gmail.com",
+    "seatNo": 7,
+    "eventID": "EVENT_3",
+    "password": "goku123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "nevergiveup",
+    "firstName": "asta",
+    "contactNo": 9123456789,
+    "email": "asta2@gmail.com",
+    "seatNo": 8,
+    "eventID": "EVENT_3",
+    "password": "asta123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "luckyMF",
+    "firstName": "yuno",
+    "contactNo": 9777177723,
+    "email": "yuno123@gmail.com",
+    "seatNo": 9,
+    "eventID": "EVENT_3",
+    "password": "yonu123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "midoriya",
+    "firstName": "deku",
+    "contactNo": 9127364859,
+    "email": "dek@gmail.com",
+    "seatNo": 10,
+    "eventID": "EVENT_3",
+    "password": "dek123",
+    "gender": "Male"
+  },
+  {
+    "lastName": "nenengB",
+    "firstName": "hakdog",
+    "contactNo": 9123456478,
+    "email": "anoUlam@gmail.com",
+    "seatNo": 11,
+    "eventID": "EVENT_3",
+    "password": "maanoulam",
+    "gender": "Female"
+  }
+]

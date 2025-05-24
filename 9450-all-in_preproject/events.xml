@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers_Events>
+    <Event>
+        <Event_ID>EVENT_1</Event_ID>
+        <Event_Name>ICON: Awardees</Event_Name>
+        <Start_Time>1:00 PM</Start_Time>
+        <End_Time>4:00 PM</End_Time>
+        <Event_Day>4</Event_Day>
+        <Event_Month>March</Event_Month>
+        <Event_Description>Awardees of ICON members!</Event_Description>
+    </Event>
+    <Event>
+        <Event_ID>EVENT_2</Event_ID>
+        <Event_Name>Valentines Day</Event_Name>
+        <Start_Time>7:00 AM</Start_Time>
+        <End_Time>12:00 PM</End_Time>
+        <Event_Day>20</Event_Day>
+        <Event_Month>February</Event_Month>
+        <Event_Description>Happy Valentines Day</Event_Description>
+    </Event>
+    <Event>
+        <Event_ID>EVENT_3</Event_ID>
+        <Event_Name>Acquaintances Party</Event_Name>
+        <Start_Time>9:00 AM</Start_Time>
+        <End_Time>2:00 PM</End_Time>
+        <Event_Day>25</Event_Day>
+        <Event_Month>March</Event_Month>
+        <Event_Description>Acquaintances Party of SAMCIS students!</Event_Description>
+    </Event>
+    <Event>
+        <Event_ID>EVENT_4</Event_ID>
+        <Event_Name>Acquaintances Party</Event_Name>
+        <Start_Time>9:00 AM</Start_Time>
+        <End_Time>1:00 PM</End_Time>
+        <Event_Day>5</Event_Day>
+        <Event_Month>April</Event_Month>
+        <Event_Description>Acquaintances Party of ICON members</Event_Description>
+    </Event>
+    <Event>
+        <Event_ID>EVENT_5</Event_ID>
+        <Event_Name>ICON Executives Meeting</Event_Name>
+        <Start_Time>7:00 AM</Start_Time>
+        <End_Time>12:00 PM</End_Time>
+        <Event_Day>1</Event_Day>
+        <Event_Month>April</Event_Month>
+        <Event_Description>ICON Executives Meeting!</Event_Description>
+    </Event>
+    <Event>
+        <Event_ID>EVENT_6</Event_ID>
+        <Event_Name>Robe Meet &amp; Greet</Event_Name>
+        <Start_Time>3:00 PM</Start_Time>
+        <End_Time>4:00 PM</End_Time>
+        <Event_Day>11</Event_Day>
+        <Event_Month>June</Event_Month>
+        <Event_Description>You will meet your favorite Robe</Event_Description>
+    </Event>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Charusu</Last_Name>
+        <First_Name>kennetsu</First_Name>
+        <Contact_Number>9987456321</Contact_Number>
+        <Email>KennetsuCharusu@gmail.com</Email>
+        <Seat>5</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>sdfsdf</Last_Name>
+        <First_Name>jls</First_Name>
+        <Contact_Number>9123456789</Contact_Number>
+        <Email>sdf@gamail.com</Email>
+        <Seat>30</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>sdf</Last_Name>
+        <First_Name>sdf</First_Name>
+        <Contact_Number>9123456789</Contact_Number>
+        <Email>sdf@gmail.co</Email>
+        <Seat>29</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Charusu</Last_Name>
+        <First_Name>Kennetsu</First_Name>
+        <Contact_Number>9123456789</Contact_Number>
+        <Email>CharusuKennetsu@slu.edu.ph</Email>
+        <Seat>29</Seat>
+    </Customer1>
+    <Event>
+        <Event_ID>EVENT_7</Event_ID>
+        <Event_Name>Robe Concert</Event_Name>
+        <Start_Time>7:00 AM</Start_Time>
+        <End_Time>10:00 AM</End_Time>
+        <Event_Day>5</Event_Day>
+        <Event_Month>March</Event_Month>
+        <Event_Description>Meet the greatness of ROBE!</Event_Description>
+    </Event>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Policarpio</Last_Name>
+        <First_Name>Julian</First_Name>
+        <Contact_Number>9876846354</Contact_Number>
+        <Email>JulianPol123@gmail.com</Email>
+        <Seat>6</Seat>
+    </Customer1>
+    <Event>
+        <Event_ID>EVENT_8</Event_ID>
+        <Event_Name>Julian Concert</Event_Name>
+        <Start_Time>9:00 AM</Start_Time>
+        <End_Time>4:00 PM</End_Time>
+        <Event_Day>2</Event_Day>
+        <Event_Month>May</Event_Month>
+        <Event_Description>Feel the Julian's Rage!!!</Event_Description>
+    </Event>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Sarmiento</Last_Name>
+        <First_Name>AJ</First_Name>
+        <Contact_Number>9456832491</Contact_Number>
+        <Email>AJSarm@gmail.com</Email>
+        <Seat>3</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Sar</Last_Name>
+        <First_Name>GIGI</First_Name>
+        <Contact_Number>9456832491</Contact_Number>
+        <Email>AJSarm@gmail.com</Email>
+        <Seat>5</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>BIBI</Last_Name>
+        <First_Name>Bruh</First_Name>
+        <Contact_Number>9456832491</Contact_Number>
+        <Email>hiPo@gmail.com</Email>
+        <Seat>25</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Ilagan</Last_Name>
+        <First_Name>MJ</First_Name>
+        <Contact_Number>9304567483</Contact_Number>
+        <Email>mlIlagan@gmail.com</Email>
+        <Seat>36</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>shako</Last_Name>
+        <First_Name>yuyu</First_Name>
+        <Contact_Number>9345728498</Contact_Number>
+        <Email>yuyuShake@gmail.com</Email>
+        <Seat>34</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Kaisen</Last_Name>
+        <First_Name>Jujutsu</First_Name>
+        <Contact_Number>9234567287</Contact_Number>
+        <Email>JJK@gmail.com</Email>
+        <Seat>35</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Monkey</Last_Name>
+        <First_Name>Luffy</First_Name>
+        <Contact_Number>9001010101</Contact_Number>
+        <Email>LuffyTheGoat@gmail.com</Email>
+        <Seat>33</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>RightHand</Last_Name>
+        <First_Name>Zoro</First_Name>
+        <Contact_Number>9238476592</Contact_Number>
+        <Email>Zoro0978@gmail.com</Email>
+        <Seat>32</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>TheLeft</Last_Name>
+        <First_Name>Sanji</First_Name>
+        <Contact_Number>9457382746</Contact_Number>
+        <Email>SanjiTheLeft@gmail.com</Email>
+        <Seat>31</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>wersdf</Last_Name>
+        <First_Name>fasdf</First_Name>
+        <Contact_Number>9234567891</Contact_Number>
+        <Email>asdf@gmail.com</Email>
+        <Seat>31</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>Mayo</Last_Name>
+        <First_Name>Kenneth</First_Name>
+        <Contact_Number>9301426959</Contact_Number>
+        <Email>KennethCharlesMayo@gmail.com</Email>
+        <Seat>32</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>Mayo</Last_Name>
+        <First_Name>Charles</First_Name>
+        <Contact_Number>9894568376</Contact_Number>
+        <Email>CharlesMayo@gmail.com</Email>
+        <Seat>33</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>Harden</Last_Name>
+        <First_Name>James</First_Name>
+        <Contact_Number>9556788952</Contact_Number>
+        <Email>JamesHarden123@gmail.com</Email>
+        <Seat>19</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>JJ</Last_Name>
+        <First_Name>KennethJ</First_Name>
+        <Contact_Number>9392398480</Contact_Number>
+        <Email>Jeje@gmail.com</Email>
+        <Seat>13</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_2</Event_ID>
+        <Last_Name>asdfasdf</Last_Name>
+        <First_Name>sadfsadf</First_Name>
+        <Contact_Number>9301246784</Contact_Number>
+        <Email>kennjsdf@gmail.com</Email>
+        <Seat>7</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_1</Event_ID>
+        <Last_Name>Mayo</Last_Name>
+        <First_Name>Kenneth</First_Name>
+        <Contact_Number>9301426959</Contact_Number>
+        <Email>KennethMayo@gmail.com</Email>
+        <Seat>4</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_5</Event_ID>
+        <Last_Name>Charusu</Last_Name>
+        <First_Name>Kenetsu</First_Name>
+        <Contact_Number>9897456123</Contact_Number>
+        <Email>Kenetsucharusu@gmail.com</Email>
+        <Seat>10</Seat>
+    </Customer1>
+    <Customer1>
+        <Event_ID>EVENT_3</Event_ID>
+        <Last_Name>Abadeico</Last_Name>
+        <First_Name>Robe</First_Name>
+        <Contact_Number>9876589435</Contact_Number>
+        <Email>robeDaddy123@gmail.com</Email>
+        <Seat>1</Seat>
+    </Customer1>
+</Customers_Events>

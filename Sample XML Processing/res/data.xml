@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>
+<data>
+    <student>
+        <id>2220001</id>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>2</year>
+        <phone>09182001000</phone>
+        <phone>09201588565</phone>
+    </student>
+    <employee type = "faculty">
+        <id>FE0001</id>
+        <name>Juan Masipag</name>
+        <position>department head</position>
+        <department>CAD/CS</department>
+    </employee>
+    <student>
+        <id>2220002</id>
+        <name>Maria Makiling</name>
+        <course>BSCS</course>
+        <year>2</year>
+    </student>
+    <employee type = "admininstration">
+        <id>AE0001</id>
+        <name>Juan Masipag</name>
+        <position>secretary</position>
+        <department>President's office</department>
+    </employee>
+    <student>
+        <id>2220003</id>
+        <name>Pedro Penduko</name>
+        <course>BMMA</course>
+        <year>1</year>
+    </student>
+</data>

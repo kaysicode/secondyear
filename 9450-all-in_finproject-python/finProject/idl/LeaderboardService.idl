@@ -1,0 +1,16 @@
+module LeaderboardService {
+
+    struct StatEntry {
+        string username;
+        long value;
+    };
+
+    typedef sequence<StatEntry> StatEntryList;
+
+    interface Leaderboard {
+	void setRoundWinner(in string username);
+        void setGameWinner(in string username);
+        StatEntryList getWinners();
+        StatEntryList getPlaces();
+    };
+};

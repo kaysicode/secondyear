@@ -1,0 +1,16 @@
+module GuessWordService {
+	interface GuessWord {
+		boolean checkInput(in string i, in long gameId);
+		string getWords(in long gameId);
+		long time_configuration(in long gameId);
+		void startGame();
+		boolean isWinner(in string u, in string p, in long gameId);
+		void resetRound(in long gameId);
+		string getWinner(in long gameId);
+		void setWinner(in string u, in long gameId);
+		string finalWinner(in long gameId);
+		void setGameDone(in long gameId);
+		long nextGameTime(in long gameId);
+	};
+};
+		

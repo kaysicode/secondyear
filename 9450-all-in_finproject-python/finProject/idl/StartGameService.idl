@@ -1,0 +1,12 @@
+module StartGameService {
+    interface StartGame {
+        boolean checkGameExist(in string gameName);
+        long createGame(in string u);
+	long joinGame(in string u);
+	string get_user_list();
+	long get_remaining_time();
+	void cancelGame(in string u);
+	void setCancelGame(in string status);
+	long getGameID();
+    };
+};

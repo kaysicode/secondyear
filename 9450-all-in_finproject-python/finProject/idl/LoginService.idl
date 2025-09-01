@@ -1,0 +1,9 @@
+module LoginService {
+	interface Login {
+		boolean checkExist(in string u, in string p);
+		boolean checkActive(in string u);
+		boolean checkUser(in string u, in string p, in string t);
+		void logout(in string u);
+	};
+};
+		 

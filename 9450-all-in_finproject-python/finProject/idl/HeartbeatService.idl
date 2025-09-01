@@ -1,0 +1,5 @@
+module HeartbeatService {
+	interface Heartbeat {
+		void ping();
+	};
+};
